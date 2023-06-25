@@ -1,0 +1,10 @@
+/home/kali/HECCYLLIujTbmy/workspace/projects/lab08-to4no/build/CMakeFiles/print.dir
+/home/kali/HECCYLLIujTbmy/workspace/projects/lab08-to4no/build/CMakeFiles/demo.dir
+/home/kali/HECCYLLIujTbmy/workspace/projects/lab08-to4no/build/CMakeFiles/package.dir
+/home/kali/HECCYLLIujTbmy/workspace/projects/lab08-to4no/build/CMakeFiles/package_source.dir
+/home/kali/HECCYLLIujTbmy/workspace/projects/lab08-to4no/build/CMakeFiles/edit_cache.dir
+/home/kali/HECCYLLIujTbmy/workspace/projects/lab08-to4no/build/CMakeFiles/rebuild_cache.dir
+/home/kali/HECCYLLIujTbmy/workspace/projects/lab08-to4no/build/CMakeFiles/list_install_components.dir
+/home/kali/HECCYLLIujTbmy/workspace/projects/lab08-to4no/build/CMakeFiles/install.dir
+/home/kali/HECCYLLIujTbmy/workspace/projects/lab08-to4no/build/CMakeFiles/install/local.dir
+/home/kali/HECCYLLIujTbmy/workspace/projects/lab08-to4no/build/CMakeFiles/install/strip.dir
